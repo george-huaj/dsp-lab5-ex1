@@ -1,3 +1,4 @@
- #Frist report
-Author: Junjie Hua
-Date: Oct 18, 2021
+#Frist report
+Author: Junjie(george) Hua
+Date: Oct 19, 2021
+Age:23
